@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **natividadchristian670@gmai.com** For Project or Anything 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeCrizzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats-six-nu-82.vercel.app/?username=CodeCrizzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
