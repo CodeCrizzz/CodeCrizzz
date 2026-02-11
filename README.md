@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Christian Natividad
 **A Bachelor of Science In Information Systems
 
-Email Me 👉 ✉️ **natividadchristian670@gmai.com** For Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **natividadchristian670@gmail.com** For Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Web Development
 - 💬 **Ask me about:** Collaboration, Mentorship or Internship
