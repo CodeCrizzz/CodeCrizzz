@@ -1,3 +1,11 @@
+# 💫 Hi 👋, I'm Christian Natividad
+**A Bachelor of Science In Information Systems
+
+Email Me 👉 ✉️ **natividadchristian670@gmai.com** For Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Web Development
+- 💬 **Ask me about:** Collaboration, Mentorship or Internship
+- ⚡ **Fun fact:** My Brain only works at night
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Christian Natividad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/natividadchristian05) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@CodeCrizzz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:natividadchristian670@gmail.com) 
